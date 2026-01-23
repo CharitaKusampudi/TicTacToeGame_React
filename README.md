@@ -12,7 +12,7 @@ The application is deployed on Netlify for easy access and sharing.
 
 - Active player highlighting during gameplay
 
-- Automatic winner detection
+- Displays a move history showing every action taken by the players
 
 - Draw detection when all cells are filled
 
